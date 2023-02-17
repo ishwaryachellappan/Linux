@@ -1,0 +1,84 @@
+LINUX
+
+Why linux:
+->easily available
+->fastest
+->used in cloud
+->free software
+
+
+shell:
+1.computer interface to an operating system
+2.the shell takes our commands and gives them to the operating system to perform.
+
+terminal:the program that runs a shell.
+
+terminal->shell->os
+
+for windows:
+install windows subsystem for linux
+
+
+commands:
+man before any commands provides extra details
+whoami->gives the username
+clear->clear mess on the terminal
+pwd->print working directory
+ls->list the contents
+cd->current directory
+cd ..->go back
+cd tilt->go back to home
+cd / ->root
+mkdir->make directory
+touch->opens the file,creates an text document
+rmdir->delete a folder
+rm->delete a file
+rm -v ->removed file notification
+open ->opens the directory
+mv->renaming the file
+cp->copy file or folders
+head->top of first part of file
+head filename -n20->20 lines
+tail -> last part of the file
+date->prints date and time
+date > filename->will paste the date in the file
+date >> filename->double arrow will not overwrite
+cat -> contents of the file
+less->lesser content than cat
+echo->just like print statement
+wc->no of lines,no of words,no of bytes,name
+sort->sort the words in file
+sort -n-> desending number
+uniq->print unique values
+uniq-c->print count of uniques values
+diff->differemce between two files,prints different values
+find->find .-> prints all documents
+find . -name '7'->print the files which have 7
+grep -> grep green filename -> highlghts the green words in the file.
+du->size of files
+df -> free space 
+history->history of commands that runned before
+ps->process status
+top->top process running
+kill<process id>->kill the processs
+jobs->
+bg->background
+fg->foreground
+gzip->compress a file and replace it with original file
+gunzip->unzip the file
+tar->create archieve  
+nano ->text editor
+passwd->changing password
+chmod->change mode
+
+
+
+
+
+
+
+
+
+
+
+
